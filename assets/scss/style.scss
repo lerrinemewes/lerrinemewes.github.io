@@ -319,6 +319,9 @@ img{
 }
 
 @media screen and (max-width: 480px){
+  .top .logo {
+    max-width: 210px;
+  }
   .block{
     display: block;
     text-align: center;
